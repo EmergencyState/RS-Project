@@ -1,0 +1,25 @@
+Iespējamās analīzes idejas:
+Populārākie maršruti un transporta veidi:
+
+Mērķis: Noskaidrot, kuri maršruti un transporta līdzekļi tiek izmantoti visbiežāk.
+Analīze: Grupēt datus pēc MarsrNos un TranspVeids, skaitot validācijas (ValidTalonaId) un veidojot populārāko maršrutu sarakstu.
+Noslogotākais laiks dienas gaitā:
+
+Mērķis: Noskaidrot, kuras stundas ir visnoslogotākās katram transporta veidam vai maršrutam.
+Analīze: Grupēt datus pēc stundas no laika (Laiks lauks) un izveidot grafikus ar pasažieru plūsmu pa diennakts stundām.
+Maršrutu veiktspēja (pīķa laiks):
+
+Mērķis: Izprast, kurš maršruts kurā laikā tiek visintensīvāk izmantots, lai noteiktu iespējamo pārslodzi pīķa stundās.
+Analīze: Filtrēt un grupēt datus pēc maršruta, virziena (Virziens) un stundas, nosakot pasažieru validāciju pīķa laiku.
+Autobusu un tramvaju parku noslodze:
+
+Mērķis: Noskaidrot, kuri parki ir visnoslogotākie un varētu pieprasīt papildus transportu.
+Analīze: Grupēt datus pēc Parks un TranspVeids, analizēt katra parka kopējo validāciju daudzumu.
+Dienas un nedēļas noslodzes analīze:
+
+Mērķis: Noskaidrot, kuri dienas un nedēļas laiki ir visnoslogotākie (piemēram, darba dienas rītos vai piektdienas pēcpusdienās).
+Analīze: Grupēt datus pēc dienas (Laiks datuma komponents), lai analizētu izmantojumu dažādos nedēļas periodos.
+Ilgtermiņa tendenču novērojumi:
+
+Mērķis: Veikt ilgtermiņa salīdzinājumu starp vairākiem datu kopumiem (ja ir pieejami), lai noteiktu pasažieru skaita izmaiņas dažādos gada laikos.
+Analīze: Salīdzināt mēnešu un gadu griezumā, analizējot pārmaiņas, piemēram, oktobrī pret novembri un tā tālāk.
