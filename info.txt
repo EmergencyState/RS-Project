@@ -1,5 +1,5 @@
 ...Iespējamās analīzes idejas:
-Populārākie maršruti un transporta veidi:
+...Populārākie maršruti un transporta veidi:
 
 Mērķis: Noskaidrot, kuri maršruti un transporta līdzekļi tiek izmantoti visbiežāk.
 Analīze: Grupēt datus pēc MarsrNos un TranspVeids, skaitot validācijas (ValidTalonaId) un veidojot populārāko maršrutu sarakstu.
