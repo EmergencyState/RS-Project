@@ -7,11 +7,11 @@ Analīzes mērķis ir noteikt populārākos maršrutus, noslogotākās stundas u
 
 Projekts sastāv no šādām direktorijām un failiem:
 
-├── data/                    # Sākotnējie dati (31 .txt fails, katrs pārstāv vienu dienu)
-│   ├── 01_10_2024.txt
-│   ├── 02_10_2024.txt
-│   └── ... līdz 31_10_2024.txt
-├── analysis.py  
+data/                    # Sākotnējie dati (31 .txt fails, katrs pārstāv vienu dienu)
+*01_10_2024.txt
+*02_10_2024.txt
+*līdz 31_10_2024.txt
+analysis.py  
 
 ## Datu avoti
 Datus esam ieguvuši no Latvijas atvērto datu portāla. Dators ir apkopoti 2024. gada oktobra e-talona validacijas dati no Rīgas satiksmes. 
