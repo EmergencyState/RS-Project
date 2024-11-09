@@ -23,3 +23,7 @@ Ilgtermiņa tendenču novērojumi:
 
 Mērķis: Veikt ilgtermiņa salīdzinājumu starp vairākiem datu kopumiem (ja ir pieejami), lai noteiktu pasažieru skaita izmaiņas dažādos gada laikos.
 Analīze: Salīdzināt mēnešu un gadu griezumā, analizējot pārmaiņas, piemēram, oktobrī pret novembri un tā tālāk.
+
+
+
+Koda struktura
