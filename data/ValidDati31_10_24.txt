@@ -1,0 +1,111 @@
+﻿Ier_ID,Parks,TranspVeids,GarNr,MarsrNos,TMarsruts,Virziens,ValidTalonaId,Laiks
+8596086,5 parks,Tramvajs,58523,Imanta - Jugla,Tm 1,Back,3676606,31.10.2024 00:16:22
+8601793,1 parks,Trolejbuss,17627,Pļavnieki - Šmerlis,Tr 16,Forth,3674674,31.10.2024 00:12:26
+8605148,6 parks,Autobuss,68194,Babītes stacija - Preču 2,A 13,Forth,3673595,31.10.2024 00:10:56
+8609893,1 parks,Trolejbuss,17627,Pļavnieki - Šmerlis,Tr 16,Forth,3658677,31.10.2024 00:09:00
+8611859,7 parks,Autobuss,78171,Abrenes iela - Biķeri,A 6,Forth,3671445,31.10.2024 00:01:40
+8614189,7 parks,Autobuss,78692,Abrenes iela - Lidosta,A 22,Forth,3670672,31.10.2024 00:43:35
+8628174,1 parks,Trolejbuss,17878,Centrāltirgus - Sarkandaugava,Tr 3,Forth,3665758,31.10.2024 00:23:13
+8630706,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3664455,31.10.2024 00:05:32
+8635578,7 parks,Autobuss,79338,Dārziņi - Jugla,A 15,Back,3661746,31.10.2024 00:07:57
+8637951,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3660390,31.10.2024 00:03:08
+8638729,5 parks,Tramvajs,58011,Imanta - Jugla,Tm 1,Back,3659990,31.10.2024 00:07:44
+8644283,6 parks,Autobuss,68194,Babītes stacija - Preču 2,A 13,Forth,3643680,31.10.2024 00:04:33
+8656388,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3650799,31.10.2024 00:00:34
+8659248,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3635500,31.10.2024 00:03:45
+8668760,2 parks,Trolejbuss,27635,Jugla 3 -- Ziepniekkalns,Tr 4,Forth,3615967,31.10.2024 00:01:11
+8670580,5 parks,Tramvajs,57615,Ausekļa iela - Ķengarags,Tm 7,Forth,3642839,31.10.2024 00:03:40
+8670592,6 parks,Autobuss,67122,Mežciems  -  Šampēteris,A 63,Forth,3616181,31.10.2024 00:55:10
+8671486,3 parks,Tramvajs,30307,Iļģuciems - Mīlgrāvis,Tm 5,Forth,3642260,31.10.2024 00:20:46
+8671502,6 parks,Autobuss,67122,Mežciems  -  Šampēteris,A 63,Forth,3436218,31.10.2024 01:22:58
+8671550,6 parks,Autobuss,67122,Mežciems  -  Šampēteris,A 63,Forth,3642234,31.10.2024 00:41:16
+8671735,6 parks,Autobuss,64083,Mežciems  -  Šampēteris,A 63,Forth,3642107,31.10.2024 00:54:30
+8673674,2 parks,Trolejbuss,27635,Jugla 3 -- Ziepniekkalns,Tr 4,Forth,3640749,31.10.2024 00:13:29
+8676249,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3624884,31.10.2024 00:09:07
+8684606,1 parks,Trolejbuss,17769,Latvijas Universitāte - Ķengarags,Tr 15,Back,3633922,31.10.2024 00:38:59
+8684625,2 parks,Trolejbuss,27167,Jugla 3 -- Ziepniekkalns,Tr 4,Back,3633913,31.10.2024 00:34:25
+8684837,6 parks,Autobuss,64083,Mežciems  -  Šampēteris,A 63,Forth,3633796,31.10.2024 00:15:48
+8702501,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3595938,31.10.2024 00:06:27
+8703187,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3621249,31.10.2024 00:06:22
+8704985,7 parks,Autobuss,78692,Abrenes iela - Lidosta,A 22,Forth,3605881,31.10.2024 00:00:54
+8705304,5 parks,Tramvajs,58523,Imanta - Jugla,Tm 1,Back,3619983,31.10.2024 00:36:33
+8708805,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3591499,31.10.2024 00:10:15
+8710265,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3590682,31.10.2024 00:10:29
+8711126,2 parks,Trolejbuss,27167,Jugla 3 -- Ziepniekkalns,Tr 4,Forth,3601519,31.10.2024 00:00:44
+8717802,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3610121,31.10.2024 00:10:11
+8717823,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3610106,31.10.2024 00:10:33
+8723908,5 parks,Tramvajs,57517,Ausekļa iela - Ķengarags,Tm 7,Back,3605704,31.10.2024 00:12:54
+8727048,2 parks,Trolejbuss,29375,Centrāltirgus - Mežciems,Tr 35,Forth,3603826,31.10.2024 00:08:51
+8742485,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3580042,31.10.2024 00:10:21
+8746084,1 parks,Trolejbuss,17834,Centrāltirgus - Sarkandaugava,Tr 3,Forth,3577757,31.10.2024 00:08:47
+8748257,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3590070,31.10.2024 00:13:53
+8769721,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3575849,31.10.2024 00:04:15
+8771871,1 parks,Trolejbuss,17812,Jugla 3 -- Ziepniekkalns,Tr 4,Forth,3574459,31.10.2024 00:43:20
+8772047,3 parks,Tramvajs,30286,Iļģuciems - Mīlgrāvis,Tm 5,Back,3549730,31.10.2024 00:10:30
+8773281,1 parks,Trolejbuss,17627,Pļavnieki - Šmerlis,Tr 16,Forth,3573467,31.10.2024 00:10:26
+8778167,2 parks,Trolejbuss,27189,Centrālā stacija - Purvciems,Tr 23,Back,3570217,31.10.2024 00:02:48
+8778593,1 parks,Trolejbuss,17834,Centrāltirgus - Sarkandaugava,Tr 3,Forth,3569977,31.10.2024 00:07:14
+8785355,1 parks,Trolejbuss,17627,Pļavnieki - Šmerlis,Tr 16,Forth,3565163,31.10.2024 00:23:56
+8789789,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3561859,31.10.2024 00:10:11
+8791146,5 parks,Tramvajs,57615,Ausekļa iela - Ķengarags,Tm 7,Back,3548174,31.10.2024 00:38:37
+8798817,2 parks,Trolejbuss,27167,Jugla 3 -- Ziepniekkalns,Tr 4,Back,3556050,31.10.2024 00:35:26
+8799712,7 parks,Autobuss,78692,Abrenes iela - Lidosta,A 22,Forth,3395768,31.10.2024 00:39:50
+8800152,3 parks,Tramvajs,35272,Ausekļa iela - Mežaparks,Tm 11,Back,3555215,31.10.2024 00:04:27
+8807821,1 parks,Trolejbuss,17878,Centrāltirgus - Sarkandaugava,Tr 3,Forth,3549834,31.10.2024 00:26:49
+8812916,7 parks,Autobuss,71018,Pētersalas - Pļavnieku kapi,A 20,Back,3546386,31.10.2024 00:20:05
+8821239,5 parks,Tramvajs,58523,Imanta - Jugla,Tm 1,Back,3515862,31.10.2024 00:13:06
+8827952,2 parks,Trolejbuss,27635,Jugla 3 -- Ziepniekkalns,Tr 4,Forth,3534215,31.10.2024 00:00:02
+8829558,1 parks,Trolejbuss,17627,Pļavnieki - Šmerlis,Tr 16,Forth,3519549,31.10.2024 00:12:31
+8832799,6 parks,Autobuss,67122,Mežciems  -  Šampēteris,A 63,Forth,3529962,31.10.2024 00:55:16
+8832939,6 parks,Autobuss,67122,Mežciems  -  Šampēteris,A 63,Forth,3529848,31.10.2024 00:43:56
+8842806,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3508071,31.10.2024 00:06:22
+8846128,2 parks,Trolejbuss,27635,Jugla 3 -- Ziepniekkalns,Tr 4,Forth,3518685,31.10.2024 00:05:27
+8846604,2 parks,Trolejbuss,27635,Jugla 3 -- Ziepniekkalns,Tr 4,Forth,3494471,31.10.2024 00:05:24
+8846931,1 parks,Trolejbuss,17627,Pļavnieki - Šmerlis,Tr 16,Forth,3517977,31.10.2024 00:12:28
+8847421,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3517623,31.10.2024 00:06:25
+8847835,1 parks,Trolejbuss,17725,Latvijas Universitāte - Ķengarags,Tr 15,Back,3517193,31.10.2024 00:08:02
+8848074,1 parks,Trolejbuss,17725,Latvijas Universitāte - Ķengarags,Tr 15,Back,3516976,31.10.2024 00:08:17
+8848588,6 parks,Autobuss,68194,Babītes stacija - Preču 2,A 13,Forth,3500298,31.10.2024 00:00:11
+8849011,1 parks,Trolejbuss,19748,Pētersala - Ziepniekkalns,Tr 19,Back,3516275,31.10.2024 00:10:51
+8850417,7 parks,Autobuss,78114,Daugavgrīva - Pļavnieki,A 3,Forth,3501967,31.10.2024 00:06:17
+8851649,5 parks,Tramvajs,58011,Imanta - Jugla,Tm 1,Back,3491017,31.10.2024 00:06:34
+8851879,5 parks,Tramvajs,57637,Imanta - Jugla,Tm 1,Back,3513925,31.10.2024 00:23:18
+8852200,2 parks,Trolejbuss,29124,Centrāltirgus - Berģuciems,Tr 31,Back,3513683,31.10.2024 01:02:51
+8852487,1 parks,Trolejbuss,17769,Latvijas Universitāte - Ķengarags,Tr 15,Back,3513450,31.10.2024 00:50:23
+8853146,6 parks,Autobuss,68194,Babītes stacija - Preču 2,A 13,Forth,3512986,31.10.2024 00:05:27
+8853302,6 parks,Autobuss,68444,Imanta  - Jugla,A 21,Back,3512866,31.10.2024 00:15:52
+8853516,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3512700,31.10.2024 00:06:44
+8855437,2 parks,Trolejbuss,29124,Centrāltirgus - Berģuciems,Tr 31,Back,3511198,31.10.2024 01:02:47
+8855869,5 parks,Tramvajs,58523,Imanta - Jugla,Tm 1,Back,3510907,31.10.2024 00:16:36
+8855999,1 parks,Trolejbuss,17649,Latvijas Universitāte - Ķengarags,Tr 15,Forth,3510786,31.10.2024 00:15:50
+8856115,2 parks,Trolejbuss,29124,Centrāltirgus - Berģuciems,Tr 31,Back,3510701,31.10.2024 01:02:49
+8856158,7 parks,Autobuss,78692,Abrenes iela - Lidosta,A 22,Forth,3510669,31.10.2024 00:00:52
+8856700,6 parks,Autobuss,68194,Babītes stacija - Preču 2,A 13,Forth,3510306,31.10.2024 00:05:35
+8857565,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3509560,31.10.2024 00:03:04
+8859703,5 parks,Tramvajs,57180,Imanta - Jugla,Tm 1,Forth,3507875,31.10.2024 00:40:19
+8860827,1 parks,Trolejbuss,17693,Centrālā stacija - Pļavnieki,Tr 22,Back,3313469,31.10.2024 00:01:56
+8861685,5 parks,Tramvajs,57180,Imanta - Jugla,Tm 1,Forth,3506456,31.10.2024 00:27:36
+8863184,5 parks,Tramvajs,58523,Imanta - Jugla,Tm 1,Back,3505268,31.10.2024 00:16:41
+8863999,6 parks,Autobuss,68194,Babītes stacija - Preču 2,A 13,Forth,3491969,31.10.2024 00:05:25
+8864470,1 parks,Trolejbuss,17693,Centrālā stacija - Pļavnieki,Tr 22,Back,3504247,31.10.2024 00:01:09
+8865717,7 parks,Autobuss,78692,Abrenes iela - Lidosta,A 22,Forth,3503367,31.10.2024 00:00:58
+8868051,7 parks,Autobuss,78702,Abrenes iela - Lidosta,A 22,Forth,3501648,31.10.2024 00:15:37
+8878118,1 parks,Trolejbuss,17976,Centrālā stacija - Pļavnieki,Tr 22,Back,3494632,31.10.2024 00:22:22
+8878261,7 parks,Autobuss,78692,Abrenes iela - Lidosta,A 22,Forth,3494519,31.10.2024 00:48:44
+8878648,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3471269,31.10.2024 00:03:42
+8880899,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3492749,31.10.2024 00:05:28
+8887373,6 parks,Autobuss,68141,Imanta  - Jugla,A 21,Back,3475452,31.10.2024 00:06:24
+8887988,6 parks,Autobuss,68194,Babītes stacija - Preču 2,A 13,Forth,3475003,31.10.2024 00:04:49
+8888308,6 parks,Autobuss,68444,Imanta  - Jugla,A 21,Back,3487757,31.10.2024 00:15:45
+8888706,7 parks,Autobuss,78931,Imanta  - Jugla,A 21,Forth,3474412,31.10.2024 00:03:20
+8888939,1 parks,Trolejbuss,17725,Latvijas Universitāte - Ķengarags,Tr 15,Back,3487328,31.10.2024 00:28:34
+8888940,5 parks,Tramvajs,57180,Imanta - Jugla,Tm 1,Forth,3487328,31.10.2024 00:37:37
+8907750,6 parks,Autobuss,68194,Babītes stacija - Preču 2,A 13,Forth,3433101,31.10.2024 00:08:55
+8911074,7 parks,Autobuss,78692,Abrenes iela - Lidosta,A 22,Forth,3392629,31.10.2024 00:38:37
+8914029,3 parks,Tramvajs,30405,Iļģuciems - Mīlgrāvis,Tm 5,Back,3342012,31.10.2024 00:21:56
+8914066,3 parks,Tramvajs,30405,Iļģuciems - Mīlgrāvis,Tm 5,Back,3341293,31.10.2024 00:22:08
+8914067,3 parks,Tramvajs,30405,Iļģuciems - Mīlgrāvis,Tm 5,Back,3341269,31.10.2024 00:22:06
+8914072,3 parks,Tramvajs,30405,Iļģuciems - Mīlgrāvis,Tm 5,Back,3341194,31.10.2024 00:21:55
+8915428,5 parks,Tramvajs,57180,Imanta - Jugla,Tm 1,Forth,3305660,31.10.2024 00:18:02
+8916482,7 parks,Autobuss,78692,Abrenes iela - Lidosta,A 22,Forth,3257020,31.10.2024 00:43:32
+8917797,6 parks,Autobuss,68194,Babītes stacija - Preču 2,A 13,Forth,3142396,31.10.2024 00:10:54
