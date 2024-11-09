@@ -27,3 +27,14 @@ Analīze: Salīdzināt mēnešu un gadu griezumā, analizējot pārmaiņas, piem
 
 
 Koda struktura
+
+# Import packages
+import pandas as pd      #pip install pandas
+import zipfile           #pip install zipfile
+ 
+# Get data to dataframe
+zf = zipfile.ZipFile('C:/Users/___.zip')                         #zib faila ceļš
+df = pd.read_csv(zf.open('ValidDati01_10_24.txt'))               #faila nosaukums
+ 
+#Get data summaty (pandas)
+df.info()
