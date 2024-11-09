@@ -1,4 +1,4 @@
-Iespējamās analīzes idejas:
+...Iespējamās analīzes idejas:
 Populārākie maršruti un transporta veidi:
 
 Mērķis: Noskaidrot, kuri maršruti un transporta līdzekļi tiek izmantoti visbiežāk.
