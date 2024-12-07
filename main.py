@@ -1,51 +1,47 @@
-import pandas as pd
-import zipfile
-import requests
 import os
+import requests
+import subprocess
 
+def download_file(url, folder, file_name):
+#Lejupielādē failu no norādītās saites un saglabā to mapē ar norādīto nosaukumu.
 
-#Saite uz  zip arhīvu
-zip_url_site = input("Ievadiet saiti: ")
+    file_path = os.path.join(folder, file_name)
+    print(f"Lejupielādēju ZIP arhīvus no saites {url}...")
+    response = requests.get(url)
+    if response.status_code == 200:
+        with open(file_path, 'wb') as file:
+            file.write(response.content)
+        print(f"Fails veiksmīgi saglabāts mapē:  {file_path}")
+    else:
+        print(f"Neizdevās lejupielādēt failu no {url}. Statusa kods: {response.status_code}")
+    return file_path
 
-# Mapes izveide un  definēšana, kur lejupieladesim datus
-data_foler = "data"
-os.makedirs(data_foler,exist_ok=True)
+# Galvenā programmas daļa
+print("Programma, kas lejupielādē datus un startē Jupiter Lab")
+etalons_url = input("Ievadiet E-Talona validācijas datu saiti: ")
+marsruti_url = input("Ievadiet Maršrutu saraksta saiti: ")
+month = input("Ievadiet mēnesi (piemēram, 01): ")
+year = input("Ievadiet gadu (piemēram, 2024): ")
 
-#Lejupielādējam datus
-response = requests.get(zip_url_site)
-if response.status_code == 200:
-    print("Lejupielādē ZIP failu...")
-    with open("./data/data.zip", "wb") as file:
-        file.write(response.content)
-        print("Fails lejupieladets")
-else:
-    print("Nesanaca lejupieladet")
-# Definejam zip atrasanas 
-zip_data_path= os.path.join(data_foler,"data.zip")
+# Izveido mapi datu saglabāšanai
+folder_name = f"{month}_{year}"
+folder_path = os.path.join("data", folder_name)
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)
 
-# Get data to dataframe
-zf = zipfile.ZipFile(zip_data_path, 'r') 
+# Definē failu nosaukumus
+validacija_file_name = "validacija.zip"
+marsruti_file_name = "marsruti.zip"
 
-df = pd.read_csv(zf.open('ValidDati01_10_24.txt'))
- 
-#Darbs ar data frame
+# Lejupielādē failus ar fiksētiem nosaukumiem
+etalons_zip = download_file(etalons_url, folder_path, validacija_file_name)
+marsruti_zip = download_file(marsruti_url, folder_path, marsruti_file_name)
 
-data = df
+# Parāda, kur faili ir saglabāti
+print(f"Visi faili ir veiksmīgi lejupielādēti un saglabāti mapē:")
+print(f" - {etalons_zip}")
+print(f" - {marsruti_zip}")
 
-data
-
-data['Parks'] = pd.to_numeric(df['Parks'].str.split(' ', expand=True)[0])
-data['Marsr_FROM'] = df['MarsrNos'].str.split('-', expand=True)[0]
-data['Marsr_TO'] = df['MarsrNos'].str.split('-', expand=True)[1]
-data['TMarsruts'] = df['TMarsruts'].str.split(' ', expand=True)[1]
-data['Datums'] = pd.to_datetime(df['Laiks']).dt.date
-data['Laiks'] = pd.to_datetime(df['Laiks']).dt.time
-data['GarNr'] = pd.to_numeric(df['GarNr'])
-data['TMarsruts'] = pd.to_numeric(df['TMarsruts'])
-data['ValidTalonaId'] = pd.to_numeric(df['ValidTalonaId'])
-
-df_filtered = df[(data['GarNr'] == 78637) & (data['Virziens'] == 'Back')  ]
-df_filtered
-
-print(data)
-
+# Startē JupyterLab
+print(f"Startē: JupyterLab...")
+subprocess.Popen(["jupyter", "lab"], cwd=os.getcwd())
