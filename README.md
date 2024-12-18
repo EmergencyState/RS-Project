@@ -7,12 +7,12 @@ Programma nodrošina datu vizualizāciju izvēlētajam maršrutam un izveido gra
 ## Projekta struktūra
 
 Projekts sastāv no šādām direktorijām un failiem:
-
+```git
 * src/
  * main.py
    * src/funkc
       * map.py
- 
+ ```
 ## Datu avoti
 Datus lietotājs izvēlās no atvērto datu mājas lapas. 
 
@@ -29,19 +29,25 @@ Programmas funkcionalitāte ir aplūkojama šeit: [Blokshēma](https://github.co
 
 Lai startētu programmu, izmantojot Python interpretatoru, jāizpilda komanda šādā veidā: python src/main.py.
 
-
+```git
 Lietotājs tiek aicināts izvēlēties darbību no trīs opcijām:
 1. darbība: Lejupielādēt jaunus datus:
+ ```
 
 Lietotājs tiek lūgts ievadīt E-Talona un Maršrutu datu URL, kā arī mēnesi un gadu.
 Programma  izveido jaunu mapi data direktorijā ar nosaukumu month_year.
 Dati tiek lejupielādēti attiecīgajās zip failu arhīvās un saglabāti izveidotajā mapē
 
+
+```git
 2. darbība: Izmantot esošos datus
 
 Programmā tiek izveidots esošo datu mapju saraksts.
 Ja nav pieejamas datu mapes, lietotājs tiek informēts un var izvēlēties citu darbību.
 Lietotājs izvēlas esošo mapi, ievadot tās numuru.
+```
 
+```git
 3. darbība: Iziet no programmas
 Ja lietotājs izvēlas iziet no programmas, programma izdrukā atvadu ziņojumu un izbeidz izpildi.
+```
