@@ -29,11 +29,8 @@ Programmas funkcionalitāte ir aplūkojama šeit: [Blokshēma](https://github.co
 
 Lai startētu programmu, izmantojot Python interpretatoru, jāizpilda komanda šādā veidā: python src/main.py.
 
-  Lietotājs tiek aicināts izvēlēties darbību no trīs opcijām:
-  1  Lejupielādēt jaunus datus
-  2  Izmantot esošos datus
-  3  Iziet no programmas
 
+Lietotājs tiek aicināts izvēlēties darbību no trīs opcijām:
 1. darbība: Lejupielādēt jaunus datus
     Lietotājs tiek lūgts ievadīt E-Talona un Maršrutu datu URL, kā arī mēnesi un gadu.
     Programma  izveido jaunu mapi data direktorijā ar nosaukumu month_year.
