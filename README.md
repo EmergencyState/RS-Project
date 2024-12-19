@@ -27,17 +27,24 @@ Programmas funkcionalitāte ir aplūkojama šeit: [Blokshēma](https://github.co
 
 ## Lietošanas instrukcija
 
-Lai startētu programmu, izmantojot Python interpretatoru, jāizpilda komanda šādā veidā: python src/main.py.
+Lai startētu programmu: 
+
+```git
+git clone https://github.com/EmergencyState/Kursa-darbs.git
+cd src
+python main.py
+```
+
 
 ```git
 Lietotājs tiek aicināts izvēlēties darbību no trīs opcijām:
 1. darbība: Lejupielādēt jaunus datus:
- ```
+
 
 Lietotājs tiek lūgts ievadīt E-Talona un Maršrutu datu URL, kā arī mēnesi un gadu.
 Programma  izveido jaunu mapi data direktorijā ar nosaukumu month_year.
 Dati tiek lejupielādēti attiecīgajās zip failu arhīvās un saglabāti izveidotajā mapē
-
+ ```
 
 ```git
 2. darbība: Izmantot esošos datus
